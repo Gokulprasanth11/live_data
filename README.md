@@ -1,12 +1,13 @@
 # Live Stock Data Display
 
 This project uses an ESP32 microcontroller to fetch and display live stock data (Nifty 50 and Sensex) on an OLED screen. The data is retrieved from the ThingSpeak API and displayed on the screen in real-time.
-
+![Img: ESP32 Connected with SSD1306OLED display](image.png)
 ## Components Used
 
 - ESP32 microcontroller
 - OLED display (128x64 pixels)
-- Jumper wires
+- Jumper wiresgit add .
+
 - Breadboard
 
 ## Libraries Required
